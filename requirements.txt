@@ -1,0 +1,5 @@
+tqdm
+openai
+elasticsearch
+pandas
+scikit-learn
