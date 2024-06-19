@@ -1,5 +1,6 @@
-tqdm
-openai
 elasticsearch
+groq
+python-dotenv
 pandas
 scikit-learn
+tqdm
