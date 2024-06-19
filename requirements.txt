@@ -3,4 +3,5 @@ groq
 python-dotenv
 pandas
 scikit-learn
+tiktoken
 tqdm
