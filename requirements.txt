@@ -2,6 +2,10 @@ elasticsearch
 groq
 python-dotenv
 pandas
+numpy==1.26.4
+openai
 scikit-learn
+sentence_transformers==2.7.0
 tiktoken
+torch
 tqdm
