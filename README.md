@@ -6,6 +6,6 @@
   - [Homework](https://github.com/cecilegltslmcs/llm-zoomcamp/tree/main/Week2/homework)
 - Week 3: [Vector databases](https://github.com/cecilegltslmcs/llm-zoomcamp/tree/main/Week3)
   -  Homework
-- Week 4: [LLM orchestration and ingestion pipelines]()
-- Week 5: [Monitoring and Guardtrails]()
+- Week 4: [Monitoring and Guardtrails]()
+- Week 5: [LLM orchestration and ingestion pipelines]()
 - Week 6: [Tips and Tricks for advanced RAG systems]()
