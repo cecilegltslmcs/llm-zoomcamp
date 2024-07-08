@@ -82,7 +82,7 @@ du -h
 
 ## Question 6. Serving it
 
-![alt text](answer_for_energy.png)
+![alt text](image.png)
 
 *How many completion tokens did you get in response?*
 
