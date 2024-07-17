@@ -9,3 +9,5 @@
 - Week 4: [Monitoring and Guardtrails]()
 - Week 5: [LLM orchestration and ingestion pipelines]()
 - Week 6: [Tips and Tricks for advanced RAG systems]()
+  
+- Workshop: [dlt]()
