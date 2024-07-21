@@ -19,4 +19,4 @@ This repository contains documents and homework related to the first cohort of L
 
 ------------
 - Workshop: [dlt](https://github.com/cecilegltslmcs/llm-zoomcamp/tree/main/Workshop%3A%20dlt)
-  - [Homework]()
+  - [Homework](https://github.com/cecilegltslmcs/llm-zoomcamp/blob/main/Workshop%3A%20dlt/homework/Homework_Workshop_dlt.ipynb)
