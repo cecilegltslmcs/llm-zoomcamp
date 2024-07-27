@@ -12,7 +12,8 @@ This repository contains documents and homework related to the first cohort of L
   - [Homework](https://github.com/cecilegltslmcs/llm-zoomcamp/tree/main/002-Open%20source%20LLM/homework)
 - Week 3: [Vector Search](https://github.com/cecilegltslmcs/llm-zoomcamp/tree/main/003-Vector%20Search)
   -  [Homework](https://github.com/cecilegltslmcs/llm-zoomcamp/blob/main/003-Vector%20Search/homework/homework.ipynb)
-- Week 4: [Monitoring and Guardtrails]()
+- Week 4: [Evaluation and monitoring](https://github.com/cecilegltslmcs/llm-zoomcamp/tree/main/004-Monitoring)
+-   [Homework]()
 - Week 5: [LLM orchestration and ingestion pipelines]()
 - Week 6: [Tips and Tricks for advanced RAG systems]()
 
