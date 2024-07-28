@@ -5,6 +5,7 @@ pandas
 matplotlib
 numpy==1.26.4
 openai
+pgcli
 rouge
 scikit-learn
 seaborn
