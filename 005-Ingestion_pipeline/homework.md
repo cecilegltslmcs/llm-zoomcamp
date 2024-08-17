@@ -16,10 +16,28 @@
 
 **How many documents (chunks) do we have in the output?**
 
-*Answer:*
+*Answer:* 86
 
 ## Q4. Export
 
 **What's the last document id?**
 
+![alt text](index_name.png)
+
+![alt text](last_indexes.png)
+
+*Answer:* fa136280
+
+## Q5. Testing the retrieval
+
+**What's the ID of the top matching result?**
+
 *Answer:*
+
+## Q6. Reindexing
+
+**What's the ID of the top matching result?**
+
+*Answer:*
+
+
