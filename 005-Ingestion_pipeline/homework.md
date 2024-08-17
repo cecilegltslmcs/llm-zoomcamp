@@ -4,7 +4,7 @@
 
 **What's the version of mage?**
 
-*Answer*: 0.9.70*
+*Answer*: 0.9.72*
 
 ## Q2. Reading the documents
 
